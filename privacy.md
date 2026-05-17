@@ -1,9 +1,9 @@
 ---
-title: PlainCam Privacy Policy
+title: Privacy
 permalink: /privacy/
 ---
 
-# PlainCam Privacy Policy
+# Privacy Policy
 
 Last updated: 2026-05-17
 
@@ -29,4 +29,4 @@ PlainCam does not sell, share, or transfer user photos or photo metadata to thir
 
 ## Contact
 
-For support, visit [PlainCam Support](https://ihandle.github.io/plaincam-site/support/).
+For questions about this privacy policy, visit [PlainCam Support](https://ihandle.github.io/plaincam-site/support/) or open an issue at [github.com/iHandle/plaincam-site/issues](https://github.com/iHandle/plaincam-site/issues).

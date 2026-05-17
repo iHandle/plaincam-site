@@ -1,9 +1,9 @@
 ---
-title: PlainCam Support
+title: Support
 permalink: /support/
 ---
 
-# PlainCam Support
+# Support
 
 If you need help with PlainCam, open an issue on the PlainCam public support repository:
 
@@ -16,3 +16,5 @@ Please include:
 - PlainCam version.
 - What you expected to happen.
 - What actually happened.
+
+For privacy information, see the [PlainCam Privacy Policy](https://ihandle.github.io/plaincam-site/privacy/).

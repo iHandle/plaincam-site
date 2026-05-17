@@ -1,3 +1,6 @@
 title: PlainCam
-description: Public support and privacy pages for PlainCam.
+description: Support and privacy information for PlainCam.
 theme: minima
+header_pages:
+  - privacy.md
+  - support.md
