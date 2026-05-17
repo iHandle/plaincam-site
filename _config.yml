@@ -1,5 +1,5 @@
 title: PlainCam
-description: Support and privacy information for PlainCam.
+description: A quiet iPhone camera with a minimal interface and a restrained RAW-to-HEIC/JPEG workflow.
 theme: minima
 header_pages:
   - privacy.md

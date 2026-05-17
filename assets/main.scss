@@ -121,6 +121,14 @@ a {
   line-height: 1.45;
 }
 
+.sublead {
+  max-width: 620px;
+  margin-top: -4px;
+  color: var(--plaincam-muted);
+  font-size: 17px;
+  line-height: 1.65;
+}
+
 .actions {
   display: flex;
   flex-wrap: wrap;
@@ -179,6 +187,10 @@ a {
   text-decoration: none;
 }
 
+.product-card {
+  background: var(--plaincam-surface);
+}
+
 .summary-card span {
   display: block;
   margin-bottom: 10px;
@@ -220,6 +232,10 @@ a {
 
   .lead {
     font-size: 19px;
+  }
+
+  .sublead {
+    font-size: 16px;
   }
 
   .summary-grid {
