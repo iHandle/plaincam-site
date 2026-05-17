@@ -4,6 +4,7 @@ title: PlainCam
 ---
 
 <section class="hero">
+  <img class="hero-logo" src="./assets/logo.svg" alt="PlainCam app icon">
   <p class="eyebrow">iPhone Camera</p>
   <h1>PlainCam</h1>
   <p class="lead">Support and privacy information for PlainCam, a simple iPhone camera focused on local photo capture and output control.</p>
